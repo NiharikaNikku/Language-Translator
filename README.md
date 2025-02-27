@@ -1,10 +1,15 @@
 # Language-Translator
 NAME:NIHARIKA BANALA
+
 DOMAIN:DATA SCIENTIST
+
 EDUCATION:BTECH 3rd YEAR AT
 VIGNAN'S INSTITUTE OF MANAGEMENT AND TECHNOLOGY FOR WOMEN
+
 OVERVIEW OF THE PROJECT:
+
 PROJECT:-DESIGN AN AI-POWERED SYSTEM THAT TRANSLATE EDUCATION CONTEXT INTO LOCAL LANGUAGE
+
 OBJECTIVE:-
 1. Understanding the Requirements:-
 Identify the target educational content (e.g., textbooks, online courses, multimedia).
@@ -31,6 +36,7 @@ Integrate user feedback to continuously improve the translation accuracy and usa
 4. Deployment & Maintenance
 Deploy the system on scalable cloud infrastructure (e.g., Azure, AWS).
 Ensure regular updates and maintenance to accommodate new content and languages.
+
 TECHNOLOGIES USED:-
 PYTHON
 TRANSLATOR
