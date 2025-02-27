@@ -38,7 +38,9 @@ Deploy the system on scalable cloud infrastructure (e.g., Azure, AWS).
 Ensure regular updates and maintenance to accommodate new content and languages.
 
 TECHNOLOGIES USED:-
-PYTHON
+
+PYTHON:The primary programming language in data analysis
+
 TRANSLATOR
 
 
